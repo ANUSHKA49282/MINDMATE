@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# PDF downloads and results
+*.pdf
+
+# Streamlit specific
+.streamlit/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+venv/
+.env/
+env/
+ENV/
+
+# Jupyter Notebooks checkpoints (if any)
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
